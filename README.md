@@ -5,7 +5,7 @@ Vending-Machine is a Mini-C project made for operating different Vending Machine
 ## Installation
 
 ```bash
-git clone https://github.com/PrachetShah/Vending-Machine-C.git
+https://github.com/coder-jkb/Vending-Machine-in-C.git
 ```
 ## Usage
 

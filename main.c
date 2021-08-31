@@ -115,16 +115,18 @@ void startLogo(){
 void menuLayout(){
   printf ("\033[0;32m"); // green
   printf ("\t\t\tWhat would you like to have ?\n");
-  printf ("\n\n\t\t\t\t\t MENU :\n");
-  printf ("\t\t\t 1. Regular Tea \tRs. 20/-\n");
-  printf ("\t\t\t 2. Special Tea \tRs. 30/-\n");
-  printf ("\t\t\t 3. Ice Tea \t\tRs. 30/-\n");
-  printf ("\t\t\t 4. Cappuccino \t\tRs. 50/-\n");
-  printf ("\t\t\t 5. Latte \t\tRs. 50/-\n");
-  printf ("\t\t\t 6. Espresso \t\tRs. 45/-\n");
-  printf ("\t\t\t 7. Cold Milk \t\tRs. 15/-\n");
-  printf ("\t\t\t 8. Hot Milk \t\tRs. 20/-\n");
-  printf ("\t\t\t 9. Hot Chocolate \tRs. 45/-\n\n");
+  printf ("\n\n\t\t\t============== MENU ==============\n");
+  printf ("\t\t\t|\t\t\t\t |\n");
+  printf ("\t\t\t| 1. Regular Tea \tRs. 20/- |\n");
+  printf ("\t\t\t| 2. Special Tea \tRs. 30/- |\n");
+  printf ("\t\t\t| 3. Ice Tea \t\tRs. 30/- |\n");
+  printf ("\t\t\t| 4. Cappuccino \tRs. 50/- |\n");
+  printf ("\t\t\t| 5. Latte \t\tRs. 50/- |\n");
+  printf ("\t\t\t| 6. Espresso \t\tRs. 45/- |\n");
+  printf ("\t\t\t| 7. Cold Milk \t\tRs. 15/- |\n");
+  printf ("\t\t\t| 8. Hot Milk \t\tRs. 20/- |\n");
+  printf ("\t\t\t| 9. Hot Chocolate \tRs. 45/- |\n");
+  printf ("\t\t\t|________________________________|\n");
   printf ("\t\t\t Enter 0 to Exit \n");
 }
 

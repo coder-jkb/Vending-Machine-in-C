@@ -14,12 +14,9 @@ Can be used in simple Vending Machine Systems.
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## Contributors
+## Contributor
 <ul>
-  <li>
-<a href="https://github.com/PrachetShah"><b>Prachet Shah</b></a>
-<br>
-  </li>
   <li>
 <a href="https://github.com/coder-jkb"><b>Jay Bhanushali</b></a>
   </li>
+</ul>
